@@ -1,2 +1,2 @@
 # battleship-rs
-Battleship game implementation in Rust. Educational project
+Battleship game implementation in Rust. Educational project.
